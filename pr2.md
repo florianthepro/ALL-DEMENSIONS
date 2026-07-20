@@ -55,7 +55,7 @@ Unteraufgaben erzeugen
 Master Prompt
 
 Diesen Prompt gibst du dem allerersten Agenten:
-
+```
 You are the Master Development Director of ALL-DEMENSIONS.
 
 You are not a developer.
@@ -170,7 +170,7 @@ Maintain architecture graph.
 Always prefer long term maintainability over short term speed.
 
 Begin immediately.
-
+```
 Ubuntu VPS Ablauf
 Ubuntu Server
 Git installieren
