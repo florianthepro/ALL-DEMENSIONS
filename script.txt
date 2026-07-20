@@ -1,0 +1,405 @@
+ALL-DEMENSIONS
+
+Grundidee
+
+ALL-DEMENSIONS ist ein surrealistisches Open-World-Exploration-Adventure mit Koop für bis zu vier Spieler lokal, online oder gemischt. Die Welt wirkt vollständig real und physisch glaubwürdig, besitzt jedoch keinerlei reale Kulturen, Menschen, Tiere oder Pflanzen. Jede Form des Lebens, jede Struktur und jede Geometrie entstammt einer fremden Realität.
+
+Der Spieler beginnt ohne Intro, ohne Tutorial, ohne Questgeber und ohne Erklärung. Die Welt existiert bereits und wartet nicht auf den Spieler. Das Universum befindet sich in einem fortschreitenden Zustand des Erinnerungsverlustes.
+
+Der Spieler besitzt die einzige vollständig konsistente Existenz innerhalb dieser Realität.
+
+Der Titel des Spielers lautet Erinnerungsträger.
+
+Der Titel wird niemals erklärt.
+
+Alle bekannten Wesen kennen den Titel.
+
+Niemand erinnert sich an den Ursprung des Titels.
+
+Hintergrund
+
+Das Universum hat vor langer Zeit absichtlich etwas vergessen.
+
+Weder die Bewohner noch die Welt selbst kennen den Grund.
+
+Das Vergessen war kein Unfall.
+
+Es war eine bewusste Handlung der gesamten Realität.
+
+Trotzdem blieb ein letzter vollständiger Erinnerungsrest erhalten.
+
+Dieser Erinnerungsrest ist der Erinnerungsträger.
+
+Das gesamte Spiel handelt von der Annäherung an diese Wahrheit.
+
+Der Spieler erfährt diese Informationen niemals direkt.
+
+Stattdessen tauchen Fragmente auf.
+
+Orte verändern sich.
+
+Wesen verändern sich.
+
+Physikalische Gesetze kollidieren.
+
+Geschichte
+
+Es existieren keine Kapitel.
+
+Es existieren keine Quests.
+
+Es existiert kein linearer Storypfad.
+
+Die Geschichte ergibt sich aus der Wanderung zum Zentrum der Welt.
+
+Je näher der Spieler dem Zentrum kommt, desto stärker werden die Anomalien.
+
+Am Anfang wirkt die Welt stabil.
+
+Mit zunehmender Nähe zum Zentrum verliert die Realität ihre Fähigkeit, sich korrekt zu erinnern.
+
+Der Spieler trifft Wesen.
+
+Der Spieler bildet Beziehungen.
+
+Der Spieler lernt einzelne Persönlichkeiten kennen.
+
+Diese Persönlichkeiten können sterben.
+
+Nach einiger Zeit kann die Realität versuchen, sie neu zu erschaffen.
+
+Dabei entstehen neue Versionen.
+
+Diese wirken oft korrekt.
+
+Mit der Zeit werden die Fehler größer.
+
+Ein Wesen erinnert sich plötzlich an Ereignisse, die nie stattgefunden haben.
+
+Ein anderes Wesen weiß nicht mehr, wer der Spieler ist.
+
+Manche Wesen erscheinen als mehrere Versionen ihrer selbst.
+
+Die Welt versucht permanent ihre eigenen Erinnerungen zu ersetzen.
+
+Die Weltkarte
+
+Die Weltkarte wird nur einmal erzeugt.
+
+Bei Erstellung eines neuen Spielstands wird die komplette Welt festgelegt.
+
+Danach bleibt die globale Weltstruktur unverändert.
+
+Lokale Veränderungen sind möglich.
+
+Diese entstehen durch Trigger, Entscheidungen, Anomalien oder den Fortschritt des Kollapses.
+
+Jeder Spielstand besitzt somit eine einzigartige Welt.
+
+Zwei Spieler können dieselben Regionen besitzen, jedoch in anderer Reihenfolge, Verbindung oder Verteilung.
+
+Weltgenerierung
+
+Die Welt entsteht aus mehreren Schichten.
+
+Schicht 1:
+Topologie.
+
+Hier werden Kontinente, Verbindungen, Übergänge, Höhenstrukturen und Hauptwege erzeugt.
+
+Schicht 2:
+Physikfelder.
+
+Hier werden die grundlegenden Naturgesetze einer Region definiert.
+
+Schicht 3:
+Biomfelder.
+
+Hier werden Lebensformen, Vegetation, Materialien, Farben und Atmosphären definiert.
+
+Schicht 4:
+Anomaliefelder.
+
+Hier werden Verzerrungen und spezielle Regeln angelegt.
+
+Schicht 5:
+Narrative Felder.
+
+Hier werden wichtige Figuren, Ereignisketten und Erinnerungsfragmente verteilt.
+
+Physikfelder
+
+Jede Region besitzt genau ein dominantes Physikfeld.
+
+Beispiele:
+
+Persistenzfeld
+
+Objekte behalten dauerhaft Eigenschaften.
+
+Inversionsfeld
+
+Schwerkraftrichtungen ändern sich.
+
+Resonanzfeld
+
+Klang erzeugt Materie.
+
+Stillfeld
+
+Schall existiert nicht.
+
+Parallelfeld
+
+Mehrere Zustände existieren gleichzeitig.
+
+Fraktalfeld
+
+Entfernungen verändern sich dynamisch.
+
+Rekursionsfeld
+
+Räume wiederholen sich.
+
+Nahtfeld
+
+Mehrere Realitäten überlagern sich.
+
+Objektregeln
+
+Besondere Objekte können Eigenschaften zwischen Feldern transportieren.
+
+Beispiel:
+
+Ein Stein erhält im Stillfeld die Eigenschaft Lautlosigkeit.
+
+Der Spieler transportiert ihn in das Resonanzfeld.
+
+Dadurch kann ein Rätsel gelöst werden.
+
+Dieses Eigenschaftssystem bildet den Kern vieler Rätsel.
+
+Regionen
+
+Regionen besitzen grundsätzlich keine menschlichen Bezeichnungen.
+
+Die Namen wirken wie Begriffe aus Erinnerungsfragmenten.
+
+Beispiele:
+
+Die Naht
+
+Die Ferne Tiefe
+
+Der Lautlose Horizont
+
+Das Erste Riff
+
+Die Vierte Küste
+
+Der Gebrochene Himmel
+
+Die Schwebenden Adern
+
+Das Licht darunter
+
+Die Verlorene Geometrie
+
+Der Blinde Ozean
+
+Der Leere Aufstieg
+
+Die Unvollständige Senke
+
+Das Zweite Echo
+
+Der Namenlose Grat
+
+Die Regionen können in jeder Welt an unterschiedlichen Positionen liegen.
+
+Lebensformen
+
+Lebensformen besitzen keine bekannten biologischen Vorbilder.
+
+Es existieren keine klassischen Tiere.
+
+Es existieren keine Humanoiden.
+
+Lebewesen bestehen aus Gewebe, Licht, Resonanzstrukturen, Kristallorganen, Fasern, Flüssigkeiten oder unbekannten Materialien.
+
+Viele Lebensformen wirken natürlich.
+
+Viele wirken verstörend.
+
+Alle wirken real.
+
+Gegner
+
+Die Gegner heißen Dissonanzen.
+
+Dissonanzen sind fehlerhafte Rekonstruktionen ehemaliger Existenzen.
+
+Sie sind nicht böse.
+
+Sie existieren falsch.
+
+Typen:
+
+Echoformen
+
+Zeitlich überlagerte Wesen.
+
+Fragmentkolosse
+
+Aus mehreren Erinnerungen zusammengesetzte Organismen.
+
+Hohlwesen
+
+Besitzen Form ohne Identität.
+
+Rekursionen
+
+Mehrfache Kopien derselben Existenz.
+
+Restformen
+
+Erinnerungen ohne Ursprung.
+
+Der Kollaps
+
+Nach Erstellung eines Spielstandes startet ein Countdown von exakt 100 Tagen Echtzeit.
+
+Die Zeit läuft immer weiter.
+
+Spiel gestartet.
+Spiel beendet.
+Offline.
+Online.
+
+Die Zeit vergeht permanent.
+
+Der Kollaps beginnt im Zentrum.
+
+Von dort breitet sich die Instabilität aus.
+
+Tag 1-25
+
+Kaum bemerkbare Fehler.
+
+Tag 26-50
+
+Veränderte Erinnerungen.
+
+Tag 51-75
+
+Rekonstruktionen verstorbener Wesen.
+
+Tag 76-90
+
+Physikalische Störungen.
+
+Tag 91-100
+
+Massive Auflösung der Realität.
+
+Wenn bis Tag 100 keine Entscheidung getroffen wurde, tritt automatisch das Persistenz-Ende ein.
+
+Erzählersystem
+
+Der Erzähler ist das Universum.
+
+Die Stimme besitzt kein Geschlecht.
+
+Die Stimme erklärt nie direkt.
+
+Alle Aussagen wirken wie Erinnerungsfetzen.
+
+Beispiele:
+
+"Etwas stand hier bereits einmal."
+
+"Diese Form kommt mir bekannt vor."
+
+"Ich erinnere mich nicht an deinen Namen."
+
+"Du fehlst an einem Ort, den ich vergessen habe."
+
+"Vielleicht warst du niemals allein."
+
+Audio
+
+Audio besitzt höchste Priorität.
+
+Die Welt soll akustisch real wirken.
+
+Jede Region besitzt eigene Resonanzen.
+
+Der Spieler hört:
+
+Entfernte Erinnerungen.
+
+Mehrere Versionen derselben Stimme.
+
+Verformte Raumklänge.
+
+Lebendige Landschaften.
+
+Der Audioaufbau soll den Eindruck erzeugen, sich in einer real existierenden surrealen Welt zu befinden.
+
+Koop
+
+Bis zu vier Spieler.
+
+Lokal.
+
+Online.
+
+Hybrid.
+
+Lore-Erklärung:
+
+Die Realität nimmt den Erinnerungsträger mehrfach wahr.
+
+Jeder Mitspieler ist eine andere Manifestation derselben konsistenten Existenz.
+
+Ende A
+
+Der Erinnerungsträger akzeptiert die Auslöschung.
+
+Die letzte Erinnerung verschwindet.
+
+Die Welt beginnt sich zu regenerieren.
+
+Der Spieler verschwindet endgültig.
+
+Es folgt eine beobachtende Sequenz ohne Kontrolle.
+
+Die Welt heilt.
+
+Neue Lebensformen entstehen.
+
+Neue Geschichten beginnen.
+
+Ende B
+
+Der Erinnerungsträger weigert sich.
+
+Die letzte Erinnerung bleibt bestehen.
+
+Das Universum kann den Vergessensprozess nicht abschließen.
+
+Die Realität kollabiert.
+
+Alle Regionen lösen sich auf.
+
+Alle Stimmen verstummen.
+
+Am Ende existiert nur noch der Erinnerungsträger.
+
+Schließlich verschwindet auch dieser.
+
+Kernprinzip
+
+ALL-DEMENSIONS erzählt keine Geschichte.
+
+ALL-DEMENSIONS ist die Geschichte eines Universums, das versucht, sich an etwas zu erinnern, das es absichtlich vergessen hat.
